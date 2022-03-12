@@ -1,2 +1,2 @@
-This tools works for some HRMS that compiles raw data in one place/repo. The raw data will be processed & compiled in 1 nice attendance file.
-Can be used for other similiar use (non-attendance related) in windows environment
+This script works for HRMS that compiles raw data in one place/repo. The raw data will be moved & compiled in 1 nice out file.
+Asied from the VBA (custom for LanScope Cat attendance) this can be used for similar case (non-attendance-file) in windows environment
